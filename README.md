@@ -1,2 +1,5 @@
-# GitBook-Java
-继承了GitBook中JavaStudy Space的仓库
+# Java-Tool\&Link
+
+* Java面试指南：[https://javaguide.cn](https://javaguide.cn/)
+* 阿里推荐Java技术图谱：[https://developer.aliyun.com/graph/java](https://developer.aliyun.com/graph/java)
+*
