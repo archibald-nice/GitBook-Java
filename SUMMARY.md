@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Java-Tool\&Link](README.md)
+* [⚓ Java-Index](README.md)
 * [Java-Everything](java-everything/README.md)
   * [Java](java-everything/java.md)
   * [MySQL](java-everything/mysql.md)
