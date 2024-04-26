@@ -1,5 +1,5 @@
 ---
-description: 包含MySQL的基础问题
+description: MySQL相关基本概念与原理
 ---
 
 # MySQL

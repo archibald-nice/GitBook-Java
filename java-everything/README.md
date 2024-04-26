@@ -1,2 +1,2 @@
-# Java-Everything
+# 💥 Java-Everything
 
