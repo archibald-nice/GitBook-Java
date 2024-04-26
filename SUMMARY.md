@@ -11,6 +11,7 @@
     * [Redis](java-everything/middleware/redis.md)
     * [RocketMQ](java-everything/middleware/rocketmq.md)
     * [Kafka](java-everything/middleware/kafka.md)
+    * [MongoDB](java-everything/middleware/mongodb.md)
   * [☁️ Cloud Native](java-everything/cloud-native/README.md)
     * [Docker](java-everything/cloud-native/docker.md)
     * [K8S](java-everything/cloud-native/k8s.md)
@@ -24,3 +25,5 @@
     * [Spring Data](java-frame/spring-framework/spring-data.md)
   * [MyBatis](java-frame/mybatis.md)
   * [Zookeeper](java-frame/zookeeper.md)
+  * [Elasticsearch](java-frame/elasticsearch.md)
+  * [Netty](java-frame/netty.md)
