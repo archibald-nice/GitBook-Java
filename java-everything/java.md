@@ -6,17 +6,17 @@ description: Java基本知识点与核心难点探索
 
 ## JavaSE
 
-### Basic
+### 基础部分
 
-### Advanced
+### 高级部分
 
-#### Collections
+#### Collections - 集合
 
-#### Multithreading
+#### Multithreading - 多线程
 
-#### JVM
+#### JVM - Java 虚拟机
 
-#### Reflection
+#### Reflection - 反射
 
 ## Tips
 
